@@ -59,3 +59,7 @@ BMI from GIANT-UK Biobank (Yengo et al., 2018).
 
 The 24 resulting summary statistics are deposited in the NHGRI-EBI GWAS Catalog
 (GCST91006158 to GCST91006181).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
